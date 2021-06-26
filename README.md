@@ -1,7 +1,7 @@
 # DANTE
 DANTE is a desktop virtual assistant powered by WolframAlpha and Wikipedia.
 
-[]!(DANTE/Assets/Dante.-Square-Text-1.png)
+[]!(DANTE/Assets/DANTE. Square Text 1.png)
 
 # Required Packages
 - wolframalpha 5.0.0 —— https://pypi.org/project/wolframalpha/
