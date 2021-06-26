@@ -4,7 +4,7 @@ import PySimpleGUI as sg
 import random
 
 username = "Miles"  # You can change this to display your own name.
-client = wolframalpha.Client("Q5W5Y7-UHHJXPLXGA")
+client = wolframalpha.Client(REDACTED)
 
 
 def get_greeting():
