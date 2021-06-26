@@ -16,3 +16,7 @@ Execute the main.py file, and enter a query into the popup GUI. Take care of you
 
 - Step 2: Press the "Ask" button!
 ![alt text](https://github.com/MilesWJ/DANTE/blob/780da4759c77e9623a8b1e3e33e5867d471d8389/DANTE/Assets/Use2.png)
+
+# Additional Notes
+You will need to create a WolframAlpha API account. This is an essential step, without it, the program will fail to operate. Once you create your account, set up an personal API account. Use the API key WolframAlpha provides, and insert it into the Client variable.
+- WolframAlpha API: https://products.wolframalpha.com/api/
