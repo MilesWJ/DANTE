@@ -9,4 +9,10 @@ DANTE is a desktop virtual assistant powered by WolframAlpha and Wikipedia.
 - wikipedia 1.4.0 —— https://pypi.org/project/wikipedia/
 
 # How To Use?
-Execute the main.py file, and enter a query into the popup GUI.
+Execute the main.py file, and enter a query into the popup GUI. Take care of your grammar and phrasing, as it uses the exact question you input. Once you enter your question, press ask. Anticipate a 5 to 10 second wait. During this time, the program is sending your question to WolframAlpha and Wikipedia. The program will return a result found from both. If one cannot be found, it will return a "not found" message.
+
+- Step 1: Input your question!
+![alt text](https://github.com/MilesWJ/DANTE/blob/780da4759c77e9623a8b1e3e33e5867d471d8389/DANTE/Assets/Use1.png)
+
+- Step 2: Press the "Ask" button!
+![alt text](https://github.com/MilesWJ/DANTE/blob/780da4759c77e9623a8b1e3e33e5867d471d8389/DANTE/Assets/Use2.png)
