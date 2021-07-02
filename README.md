@@ -1,5 +1,5 @@
 # DANTE
-DANTE is a desktop virtual assistant powered by WolframAlpha and Wikipedia.
+A helpful desktop virtual assistant that can answer your queries.
 
 ![alt text](https://github.com/MilesWJ/DANTE/blob/0406e5f415e7e3b7ae53eae1042db001f4f54e47/DANTE/Assets/DANTE%20Square%20Text%201.png)
 
